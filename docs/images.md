@@ -6,7 +6,7 @@
 
 ## 製作者
 
-Jimineko (Twitter: @jimineko2000)(https://twitter.com/jimineko2000)
+Jimineko [@jimineko2000)](https://twitter.com/jimineko2000)
 
 ## アプリダウンロード先
 https://play.google.com/store/apps/details?id=jp.jimineko.dungeon&pli=1
