@@ -1,16 +1,16 @@
 # エーテリアの迷宮　ゲーム画面スクリーンショット
 
 キャラクタ作成
-![](pics/001.png)
+![](pics/001small.png)
 
 装備を整える
-![](pics/002.png)
+![](pics/002small.png)
 
 ダンジョンに潜入！
-![](pics/003.png)
+![](pics/003small.png)
 
 バトル
-![](pics/004.png)
+![](pics/004small.png)
 
 戦利品の鑑定
-![](pics/005.png)
+![](pics/005small.png)
