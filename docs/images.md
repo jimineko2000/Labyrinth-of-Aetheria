@@ -1,4 +1,4 @@
-# エーテリアの迷宮　
+# エーテリアの迷宮　(Labyrinth of Aetheria)
 
 ## ゲーム説明
 
