@@ -15,8 +15,4 @@ X(旧Twitter) : [@jimineko2000](https://twitter.com/jimineko2000)
 
 ## ゲーム画面スクリーンショット
 
-![](pics/001small.png)
-![](pics/002small.png)
-![](pics/003small.png)
-![](pics/004small.png)
-![](pics/005small.png)
+![](pics/001small.png) ![](pics/002small.png) ![](pics/003small.png) ![](pics/004small.png) ![](pics/005small.png)
