@@ -16,4 +16,4 @@ X(旧Twitter) : [@jimineko2000](https://twitter.com/jimineko2000)
 
 ## ゲーム画面スクリーンショット
 
-<img src="pics/001small.png" width="20%"> <img src="pics/002small.png" width="20%"> <img src="pics/003small.png" width="20%"> <img src="pics/004small.png" width="20%"> <img src="pics/005small.png" width="20%">
+<img src="pics/001small.png" width="15%"> <img src="pics/002small.png" width="15%"> <img src="pics/003small.png" width="15%"> <img src="pics/004small.png" width="15%"> <img src="pics/005small.png" width="15%">
