@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="3;url=https://jimineko.com/">
+
 # エーテリアの迷宮　(Labyrinth of Aetheria)
 
 ## ゲーム説明
